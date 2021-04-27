@@ -1,1 +1,1 @@
-# Learning, Belajar, Sinau
+# Learning | Belajar | Sinau
