@@ -1,6 +1,6 @@
 # Learning | Belajar | Sinau
 
-## Hey there :wave:
+## Hey there, :wave:
 My name is Yohanes Manggla Abiwardani and I'm a DevOps engineer. I'm from Indonesia, living in Malang and currently working at Antikode.
 
 ## 🔧 Technologies & Tools
