@@ -17,9 +17,7 @@ My name is Yohanes Manggla Abiwardani and I'm a DevOps engineer. I'm from Indone
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/abiwardanii/abiwardanii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiwardanii&hide=php,html,css,blade,title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/abiwardanii/abiwardanii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiwardanii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00FFFF&bg_color=1d1f21" alt="Abi's GitHub Stats" />
+<a href="https://github.com/abiwardanii">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abiwardanii&show_icons=true&theme=merko&count_private=true" alt="Abiwardani's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiwardanii&theme=merko&layout=compact" alt="Abiwardani's github top languages" />
 </a>
