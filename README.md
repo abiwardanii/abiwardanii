@@ -1,7 +1,7 @@
 # Learn | Belajar | Sinau
 
 ## Hey there, :wave:
-My name is Yohanes Manggala Abiwardani and I'm a DevOps engineer. I'm from Indonesia, living in Malang and currently working at Antikode. You can find me at :point_right: [LinkenIn](https://www.linkedin.com/in/abiwardani/)
+My name is Yohanes Manggala Abiwardani and I'm a DevOps Engineer. I'm from Indonesia, living in Malang and currently working at Antikode. You can find me at :point_right: [LinkenIn](https://www.linkedin.com/in/abiwardani/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00FFFF)
