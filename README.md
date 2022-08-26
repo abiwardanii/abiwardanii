@@ -53,7 +53,7 @@
 <h3 align="left">Web Server</h3>
 <p align="left">
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://sco.wikipedia.org/wiki/File:Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache2" width="40" height="40"/> </a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="[https://sco.wikipedia.org/wiki/File:Apache_HTTP_server_logo_%282019-present%29.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/2880px-Apache_HTTP_server_logo_%282019-present%29.svg.png)" alt="apache2" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Containerization</h3>
