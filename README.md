@@ -21,8 +21,8 @@
 
 <h3 align="left">Github Stat</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiwardanii&show_icons=true&locale=en&layout=compact" alt="abiwardanii" /></p>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abiwardanii&show_icons=true&locale=en" alt="abiwardanii" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiwardanii&show_icons=true&locale=en&layout=compact" alt="abiwardanii" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abiwardanii&" alt="abiwardanii" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abiwardanii&show_icons=true&locale=en" alt="abiwardanii" />
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abiwardanii&" alt="abiwardanii" />
