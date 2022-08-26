@@ -48,7 +48,8 @@
 <p align="left">
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/drone-logo-9D3EF64845-seeklogo.com.png" alt="drone" width="40" height="40"/> </a>
+<a href="https://www.drone.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/drone-logo-9D3EF64845-seeklogo.com.png" alt="drone" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/600px-Terraform_Logo.svg.png" alt="terraform" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Web Server</h3>
