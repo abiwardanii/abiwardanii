@@ -48,6 +48,7 @@
 <p align="left">
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+ <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="drone" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Web Server</h3>
@@ -68,4 +69,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=abiwardanii&show_icons=true&locale=en&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=abiwardanii&show_icons=true&locale=en)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abiwardanii)
