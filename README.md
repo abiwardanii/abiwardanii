@@ -4,7 +4,7 @@
 My name is Yohanes Manggala Abiwardani and I'm a DevOps Engineer. I'm from Indonesia, living in Malang and currently working at [Antikode](https://antikode.com/). 
 
 <h3 align="left">You can find me at:</h3>
- - [LinkenIn](https://www.linkedin.com/in/abiwardani/)
+[LinkenIn](https://www.linkedin.com/in/abiwardani/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00FFFF)
